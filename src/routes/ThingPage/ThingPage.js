@@ -91,3 +91,4 @@ function ThingReviews({ reviews = [] }) {
     </ul>
   )
 }
+
