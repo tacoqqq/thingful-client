@@ -1,4 +1,4 @@
 export default {
-  API_ENDPOINT: 'https://hidden-meadow-39473.herokuapp.com/api',
+  API_ENDPOINT: 'http://localhost:8000/api',
   TOKEN_KEY: 'thingful-client-auth-token',
 }
